@@ -1,0 +1,41 @@
+{
+  "name": "writteli-lib",
+  "version": "0.0.1",
+  "description": "Core library for writteli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukaszkups/writteli-lib.git"
+  },
+  "keywords": [
+    "writteli",
+    "library",
+    "javascript",
+    "js",
+    "static",
+    "site",
+    "generator",
+    "markdown",
+    "parsing",
+    "parser",
+    "statis",
+    "site",
+    "generator"
+  ],
+  "author": "lukaszkups",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukaszkups/writteli-lib/issues"
+  },
+  "homepage": "https://github.com/lukaszkups/writteli-lib#readme",
+  "dependencies": {
+    "fs-extra": "^8.1.0",
+    "node-sass": "^4.13.1",
+    "pug": "^2.0.4",
+    "showdown": "^1.9.1",
+    "uglify-es": "^3.3.9"
+  }
+}
