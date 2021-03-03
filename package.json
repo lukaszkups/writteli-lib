@@ -34,7 +34,7 @@
   "dependencies": {
     "fs-extra": "^8.1.0",
     "node-sass": "^4.13.1",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "showdown": "^1.9.1",
     "uglify-es": "^3.3.9"
   }
